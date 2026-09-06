@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gilemodrica-web.github.io/Modricko-bure/sitemap.xml
